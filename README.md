@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurika ,a student pursuing Information Science Engineering
-- 👀 I’m an Arduino enthusiast and love to work and code with micro-controllers
-- 🌱 I would love to learn about cloud computing and embedded machine learning/Artificial intelligence
+-  I’m an Arduino enthusiast and love to work and code with micro-controllers
+-  I would love to learn about cloud computing and embedded machine learning/Artificial intelligence
 - Im still a beginner and would love to enhance my skills in related fields
   
 
